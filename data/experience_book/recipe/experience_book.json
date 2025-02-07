@@ -1,19 +1,12 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "minecraft:crafting_shapeless",
     "category": "misc",
-    "pattern": [
-        "#L#",
-        "QNE",
-        "#A#"
+    "ingredients": [
+      "minecraft:experience_bottle",
+      "minecraft:nether_star",
+      "minecraft:lapis_lazuli",
+      "minecraft:writable_book"
     ],
-    "key": {
-        "#": "minecraft:experience_bottle",
-        "L": "minecraft:lapis_lazuli",
-        "Q": "minecraft:quartz",
-        "N": "minecraft:nether_start",
-        "E": "minecraft:emerald",
-        "A": "minecraft:amethyst_shard"
-    },
     "result": {
         "id": "minecraft:command_block",
         "count": 1,

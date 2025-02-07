@@ -5,7 +5,9 @@
     "equipment": {
       "offhand": {
         "components": {
-          "minecraft:custom_data": {"experience_book":true}
+          "minecraft:custom_data": {
+            "experience_book": true
+          }
         }
       }
     }
