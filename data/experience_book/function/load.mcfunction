@@ -1,0 +1,1 @@
+scoreboard objectives add experience_book.player.points dummy
