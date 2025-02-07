@@ -3,14 +3,14 @@
     "category": "misc",
     "pattern": [
         "#L#",
-        "QWE",
+        "QNE",
         "#A#"
     ],
     "key": {
         "#": "minecraft:experience_bottle",
         "L": "minecraft:lapis_lazuli",
         "Q": "minecraft:quartz",
-        "W": "minecraft:writable_book",
+        "N": "minecraft:nether_start",
         "E": "minecraft:emerald",
         "A": "minecraft:amethyst_shard"
     },
