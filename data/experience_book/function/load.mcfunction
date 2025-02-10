@@ -1,4 +1,4 @@
-execute unless score version utils.config matches 3.. run function experience_book:requeriments/utils
+function experience_book:requeriments/load
 
 scoreboard objectives add experience_book.player.points dummy
 
