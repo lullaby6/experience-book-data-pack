@@ -17,14 +17,6 @@ Version: `1.21.4`
 
 - [`Utils Data-Pack`](https://modrinth.com/datapack/lullaby-utils)
 
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/experience-book-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/experience-book/).
-
 ## 🔥 Usage
 
 Right-Click while holding the `Experience Book` to save your experience points and shift and Right-Click to restore all experience points.
@@ -41,18 +33,6 @@ Give:
 /loot give @s loot experience_book:experience_book
 ```
 
-Disable:
-
-```mcfunction
-/datapack disable "file/experience-book.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/experience-book.zip"
-```
-
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/experience-book-data-pack/blob/main/LICENSE)
+[Limited Embed License v1.0](https://github.com/lullaby6/experience-book-data-pack/blob/main/LICENSE)
