@@ -5,8 +5,6 @@
     }
   },
   "rewards": {
-    "recipes": [
-      "experience_book:experience_book"
-    ]
+    "recipes": ["experience_book:experience_book"]
   }
 }
