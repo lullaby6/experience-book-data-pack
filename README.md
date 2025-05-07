@@ -11,10 +11,6 @@
 
 Save your experience points in a book.
 
-## ❗Requirements
-
-- [`Utils Data-Pack`](https://modrinth.com/datapack/lullaby-utils)
-
 ## 🔥 Usage
 
 Right-Click while holding the `Experience Book` to save your experience points and shift and Right-Click to restore all experience points.

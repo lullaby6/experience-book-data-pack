@@ -1,1 +1,0 @@
-tellraw @a [{"color":"gray","text":"[Experience Book] "},{"color":"red","text":"Error: "},{"clickEvent":{"action":"open_url","value":"https://modrinth.com/datapack/lullaby-utils"},"color":"gray","hoverEvent":{"action":"show_text","value":[{"text":"Click to download!"}]},"text":"Utils Data-Pack V3","underlined":true},{"color":"red","text":" is required.","underlined":false}]
